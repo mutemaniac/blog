@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mutemaniac的博客</title>
+  <id>https://mutemaniac.github.io</id>
+  <updated>2017-03-23T09:30:08+08:00</updated>
+  <subtitle>看娃·coding</subtitle>
+  <link href="https://mutemaniac.github.io"></link>
+  <author>
+    <name>mutemaniac的博客</name>
+  </author>
+  <entry>
+    <title>Hello World</title>
+    <updated>2016-07-11T17:00:00+08:00</updated>
+    <id>tag:mutemaniac.github.io,2016-07-11:/hello.html</id>
+    <content type="html"></content>
+    <link href="https://mutemaniac.github.io/hello.html"></link>
+    <author>
+      <name>mutemaniac</name>
+    </author>
+  </entry>
+</feed>

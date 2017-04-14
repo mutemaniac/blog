@@ -11,7 +11,7 @@ site:
     # root: "/blog"
 
 authors:
-    me:
+    mutemaniac:
         name: "mutemaniac"
         intro: "golang/C/Docker/Java"
         avatar: "-/images/robin.jpg"
